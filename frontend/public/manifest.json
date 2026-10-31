@@ -1,0 +1,16 @@
+{
+  "name": "Brightloop Software Subscription Platform",
+  "short_name": "Brightloop",
+  "description": "Next-Generation Offline-First Enterprise Subscription Management Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
